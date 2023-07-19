@@ -6,7 +6,6 @@
   - [Graphical Models](#graphical-models)
   - [Machine Learning](#machine-learning)
   - [MCMC](#mcmc)
-  - [Rank Aggregation](#rank-aggregation)
   - [Variational Bayes](#variational-bayes)
 - [Projects](#projects)
   - [Biodiversity](#biodiversity)
@@ -34,10 +33,6 @@
 - [Adaptive MCMC Parallelisation in Stan](https://github.com/dare-centre/Stan-Adaptive-Parallelisation) | R, Stan: Dynamic determination of optimum chains and cores for MCMC.
 - [Bayesian Neural Networks with MCMC Tutorial](https://github.com/sydney-machine-learning/Bayesianneuralnetworks-MCMC-tutorial) | Python: Code to accompany a Bayesian neural networks via MCMC tutorial.
 - [Riemann: A Research Framework for MCMC](https://github.com/rscalzo/riemann) | Python: A library of advanced MCMC methods for sampling complex, high-dimensional posterior distributions.
-
-### Rank Aggregation
-
-- [Ranking AE](https://github.com/dare-centre/rank-agg-ae) | Python: Rank aggregation with autoencoders. Work in progress.
 
 ### Variational Bayes
 
