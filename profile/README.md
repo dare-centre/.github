@@ -1,6 +1,3 @@
-<p align='center'>
-  <img src='content/DARE_logo.png' width='40%'>
-</p>
 
 # DARE Repositories
 
@@ -18,7 +15,6 @@
   - [Water](#water)
   - [Miscellaneous](#miscellaneous)
 - [Other Resources](#other-resources)
-- [Contributing](#contributing)
 
 ## Methods
 
