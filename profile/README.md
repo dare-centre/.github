@@ -34,6 +34,7 @@ Software resources by current and former DARE members.
 
 - [Adaptive MCMC Parallelisation in Stan](https://github.com/dare-centre/Stan-Adaptive-Parallelisation) | R, Stan: Dynamic determination of optimum chains and cores for MCMC.
 - [Bayesian Neural Networks with MCMC Tutorial](https://github.com/sydney-machine-learning/Bayesianneuralnetworks-MCMC-tutorial) | Python: Code to accompany a Bayesian neural networks via MCMC tutorial.
+- [Benchmarking Stan under Dynamic Overclocking](https://github.com/dare-centre/Stan-Overclocking-Benchmarker) | R, Stan: Demonstrating Stan benchmarking repeatability under dynamic overclocking.
 - [Riemann: A Research Framework for MCMC](https://github.com/rscalzo/riemann) | Python: A library of advanced MCMC methods for sampling complex, high-dimensional posterior distributions.
 
 ### Variational Bayes
