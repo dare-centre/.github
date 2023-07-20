@@ -1,6 +1,8 @@
 
 # DARE Repositories
 
+Software resources by current and former DARE members.
+
 - [Methods](#methods)
   - [Clustering](#clustering)
   - [Graphical Models](#graphical-models)
@@ -19,7 +21,7 @@
 
 ### Clustering
 
-- [Low-cost Paretonian DBSCAN Parameter Estimation for Sklearn](https://github.com/dare-centre/Paretonian-DBSCAN-Parameters) | Python: Low-cost Pareto-like parameter estimation for sklearn's DBSCAN clustering algorithm.
+- [DBSCAN Parameter Estimation for Sklearn](https://github.com/dare-centre/Paretonian-DBSCAN-Parameters) | Python: Low-cost Pareto-like parameter estimation for sklearn's DBSCAN clustering algorithm.
 
 ### Graphical Models
 
@@ -75,6 +77,7 @@
 - [DARE Poster Template](https://github.com/dare-centre/dare-marp-poster-template) | CSS: DARE-themed academic poster template using Marp.
 - [NumPyro Tutorial](https://github.com/dare-centre/fahh-numpyro) | (private) Python: DARE NumPyro tutorial (FAHH) code.
 - [UBC-GIF to netCDF](https://github.com/simmonsja/ubcgif_to_netcdf) | Python: A script to convert UBC-GIF data (e.g., [this GA data](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145901)) to netCDF.
+- [Visualisation: Java Plotly](https://github.com/dare-centre/Bulirsch-Stoer-Instability) | Java: Example Plotly graph generation from Java.
 
 ## Other Resources
 
