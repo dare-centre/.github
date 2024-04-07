@@ -65,7 +65,7 @@ Software resources by current and former DARE members.
 - [DARE Hydrology](https://github.com/dare-centre/dare-hydrology) | (private) Python: Mining impacts on groundwater (via Mixture of Experts).
 - [Dynamic Rating Curve Fitting](https://github.com/dare-centre/dare-rating-curve) | Python: Fitting streamflow rating curves.
 - [JAX GR4J](https://github.com/dare-centre/hydro-jax) | Python: JAX implementation of the GR4J hydrological model.
-- [Lihir Water](https://github.com/dare-centre/Lihir-Water) | Optimising water consumption for sustainable mining on Lihir Island.
+- [Lihir Water](https://github.com/dare-centre/Lihir-Water) | (private) Optimising water consumption for sustainable mining on Lihir Island.
 - [Llara Soil Moisture Probes](https://github.com/dare-centre/llara-soil-moisture) | Python: Modelling Llara farm soil moisture probes data.
 - [Streamflow Trends: Climate Change](https://github.com/dare-centre/VirtExp) | C++, R, shell: Disentangling climate change trends in Australian streamflow.
 - [Streamflow Trends: WaterNSW](https://github.com/dare-centre/streamflow-trends) | (private) Python, Stan: Code for the streamflow trends project with WaterNSW.
