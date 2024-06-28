@@ -82,6 +82,7 @@ Software resources by current and former DARE members.
 - [UBC-GIF to netCDF](https://github.com/simmonsja/ubcgif_to_netcdf) | Python: A script to convert UBC-GIF data (e.g., [this GA data](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145901)) to netCDF.
 - [Visualisation: Java Plotly](https://github.com/dare-centre/Bulirsch-Stoer-Instability) | Java: Example Plotly graph generation from Java.
 - [Visualisation: ggplot2 LaTeX](https://github.com/dare-centre/LaTeX-Styling-ggplot2) | R: Styling R ggplot2 graphics with LaTeX.
+- [Visualisation: Ti<i>k</i>Z LaTeX](https://github.com/dare-centre/TikZ-Arecibo-Message) | Ti<i>k</i>Z: Rendering the Arecibo message with Ti<i>k</i>Z.
 
 ## Other Resources
 
