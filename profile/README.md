@@ -58,7 +58,7 @@ Software resources by current and former DARE members.
 
 ### Minerals
 
-- [gPhone Gravity Meter Data Parser](https://github.com/dare-centre/gPhone-R-Parser) | R: An R data parser for the gPhone 74 gravity meter.
+- [gPhone Gravity Meter Data Parser](https://github.com/dare-centre/gPhone-R-Parser) | R: A data parser for the gPhone 74 gravity meter.
 - [Soil Spectral Inference with Julia](https://github.com/dare-centre/Julia-Soilspec) | Julia: A Julia version of the R soilspec package (tools for soil spectral inference). Work in progress.
 
 ### Water
