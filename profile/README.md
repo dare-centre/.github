@@ -56,6 +56,7 @@ Software resources by current and former DARE members.
 - [Fish Biomass](https://github.com/dare-centre/cmsy) | (private) R: Fish biomass estimation using the data-limited CMSY method.
 - [Fish Stock Simulation](https://github.com/dare-centre/stocksims) | R: Simulating population trajectories for model testing.
 - [Fisheries Comparison](https://github.com/dare-centre/fishery-comparison) | R: Repository for data-limited catch-only stock assessment methods.
+- [Global Fishing Index 2025](https://github.com/MinderooFoundation/FLO-Global-Fishing-Index-2025) | (external) R: Global fishing sustainability, Minderoo Foundation repo.
 
 ### Health
 
