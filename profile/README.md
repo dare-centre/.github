@@ -9,6 +9,7 @@ Software resources by current and former DARE members.
   - [Machine Learning](#machine-learning)
   - [MCMC](#mcmc)
   - [Variational Bayes](#variational-bayes)
+  - [Visualisation](#visualisation)
 - [Projects](#projects)
   - [Biodiversity](#biodiversity)
   - [Health](#health)
@@ -40,6 +41,13 @@ Software resources by current and former DARE members.
 ### Variational Bayes
 
 - [VBLab: A MATLAB Package for Variational Inference](https://vbayeslab.github.io/VBLabDocs/) | MATLAB: A probabilistic programming package for automatic variational Bayesian inference on both common, pre-defined statistical models and user-defined models.
+
+### Visualisation
+
+- [Visualisation: ggplot2 LaTeX](https://github.com/dare-centre/LaTeX-Styling-ggplot2) | R: Styling R ggplot2 graphics with LaTeX.
+- [Visualisation: Java Plotly](https://github.com/dare-centre/Bulirsch-Stoer-Instability) | Java: Example Plotly graph generation from Java.
+- [Visualisation: Ti<i>k</i>Z DAGs](https://github.com/dare-centre/Semi-Automated-TikZ-DAGs) | R, Ti<i>k</i>Z: Semi-automated Ti<i>k</i>Z directed acyclic graphs in R.
+- [Visualisation: Ti<i>k</i>Z Raster Graphics](https://github.com/dare-centre/TikZ-Arecibo-Message) | LaTeX, Ti<i>k</i>Z: Example raster graphics.
 
 ## Projects
 
@@ -81,9 +89,6 @@ Software resources by current and former DARE members.
 - [DARE Poster Template](https://github.com/dare-centre/dare-marp-poster-template) | CSS: DARE-themed academic poster template using Marp.
 - [NumPyro Tutorial](https://github.com/dare-centre/fahh-numpyro) | (private) Python: DARE NumPyro tutorial (FAHH) code.
 - [UBC-GIF to netCDF](https://github.com/simmonsja/ubcgif_to_netcdf) | Python: A script to convert UBC-GIF data (e.g., [this GA data](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145901)) to netCDF.
-- [Visualisation: Java Plotly](https://github.com/dare-centre/Bulirsch-Stoer-Instability) | Java: Example Plotly graph generation from Java.
-- [Visualisation: ggplot2 LaTeX](https://github.com/dare-centre/LaTeX-Styling-ggplot2) | R: Styling R ggplot2 graphics with LaTeX.
-- [Visualisation: Ti<i>k</i>Z LaTeX](https://github.com/dare-centre/TikZ-Arecibo-Message) | Ti<i>k</i>Z: Example raster graphics with Ti<i>k</i>Z and LaTeX.
 
 ## Other Resources
 
