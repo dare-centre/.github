@@ -46,6 +46,7 @@ Software resources by current and former DARE members.
 
 - [ggplot2 LaTeX](https://github.com/dare-centre/LaTeX-Styling-ggplot2) | R: Styling R ggplot2 graphics with LaTeX.
 - [Java Plotly](https://github.com/dare-centre/Bulirsch-Stoer-Instability) | Java: Example Plotly graph generation from Java.
+- [Stata LaTeX](https://github.com/dare-centre/LaTeX-Styling-Stata) | Stata: Styling Stata graphics with LaTeX.
 - [Ti<i>k</i>Z DAGs](https://github.com/dare-centre/Semi-Automated-TikZ-DAGs) | R, Ti<i>k</i>Z: Semi-automated Ti<i>k</i>Z directed acyclic graphs in R.
 - [Ti<i>k</i>Z Raster Graphics](https://github.com/dare-centre/TikZ-Arecibo-Message) | LaTeX, Ti<i>k</i>Z: Example raster graphics.
 
