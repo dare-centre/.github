@@ -33,9 +33,9 @@ Software resources by current and former DARE members.
 
 ### MCMC
 
-- [Adaptive MCMC Parallelisation in Stan](https://github.com/dare-centre/Stan-Adaptive-Parallelisation) | R, Stan: Dynamic determination of optimum chains and cores for MCMC.
+- [Adaptive MCMC Parallelisation in Stan](https://github.com/tstenborg/Stan-Adaptive-Parallelisation) | R, Stan: Dynamic determination of optimum chains and cores for MCMC.
 - [Bayesian Neural Networks with MCMC Tutorial](https://github.com/sydney-machine-learning/Bayesianneuralnetworks-MCMC-tutorial) | Python: Code to accompany a Bayesian neural networks via MCMC tutorial.
-- [Benchmarking Stan under Dynamic Overclocking](https://github.com/dare-centre/Stan-Overclocking-Benchmarker) | R, Stan: Stan benchmarking repeatability under dynamic overclocking.
+- [Benchmarking Stan under Dynamic Overclocking](https://github.com/tstenborg/Stan-Overclocking-Benchmarker) | R, Stan: Stan benchmarking repeatability under dynamic overclocking.
 - [Riemann: A Research Framework for MCMC](https://github.com/rscalzo/riemann) | Python: A library of advanced MCMC methods for sampling complex, high-dimensional posterior distributions.
 
 ### Variational Bayes
@@ -44,11 +44,11 @@ Software resources by current and former DARE members.
 
 ### Visualisation
 
-- [ggplot2 LaTeX](https://github.com/dare-centre/LaTeX-Styling-ggplot2) | R: Styling R ggplot2 graphics with LaTeX.
-- [Java Plotly](https://github.com/dare-centre/Bulirsch-Stoer-Instability) | Java: Example Plotly graph generation from Java.
-- [Stata LaTeX](https://github.com/dare-centre/LaTeX-Styling-Stata) | Stata: Styling Stata graphics with LaTeX.
-- [Ti<i>k</i>Z DAGs](https://github.com/dare-centre/Semi-Automated-TikZ-DAGs) | R, Ti<i>k</i>Z: Semi-automated Ti<i>k</i>Z directed acyclic graphs in R.
-- [Ti<i>k</i>Z Raster Graphics](https://github.com/dare-centre/TikZ-Arecibo-Message) | LaTeX, Ti<i>k</i>Z: Example raster graphics.
+- [ggplot2 LaTeX](https://github.com/tstenborg/LaTeX-Styling-ggplot2) | R: Styling R ggplot2 graphics with LaTeX.
+- [Java Plotly](https://github.com/tstenborg/Bulirsch-Stoer-Instability) | Java: Example Plotly graph generation from Java.
+- [Stata LaTeX](https://github.com/tstenborg/LaTeX-Styling-Stata) | Stata: Styling Stata graphics with LaTeX.
+- [Ti<i>k</i>Z DAGs](https://github.com/tstenborg/Semi-Automated-TikZ-DAGs) | R, Ti<i>k</i>Z: Semi-automated Ti<i>k</i>Z directed acyclic graphs in R.
+- [Ti<i>k</i>Z Raster Graphics](https://github.com/tstenborg/TikZ-Arecibo-Message) | LaTeX, Ti<i>k</i>Z: Example raster graphics.
 
 ## Projects
 
@@ -68,8 +68,8 @@ Software resources by current and former DARE members.
 
 ### Minerals
 
-- [gPhone Gravity Meter Data Parser](https://github.com/dare-centre/gPhone-R-Parser) | R: A data parser for the gPhone 74 gravity meter.
-- [Soil Spectral Inference with Julia](https://github.com/dare-centre/Julia-Soilspec) | Julia: A Julia version of the R soilspec package (tools for soil spectral inference). Work in progress.
+- [gPhone Gravity Meter Data Parser](https://github.com/tstenborg/gPhone-R-Parser) | R: A data parser for the gPhone 74 gravity meter.
+- [Soil Spectral Inference with Julia](https://github.com/tstenborg/Julia-Soilspec) | Julia: A Julia version of the R soilspec package (tools for soil spectral inference). Work in progress.
 
 ### Water
 
