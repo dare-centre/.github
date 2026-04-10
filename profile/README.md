@@ -22,7 +22,7 @@ Software resources by current and former DARE members.
 
 ### Clustering
 
-- [DBSCAN Parameter Estimation for Sklearn](https://github.com/dare-centre/Paretonian-DBSCAN-Parameters) | Python: Low-cost Pareto-like parameter estimation for sklearn's DBSCAN clustering algorithm.
+- [DBSCAN Parameter Estimation for Sklearn](https://github.com/tstenborg/Paretonian-DBSCAN-Parameters) | Python: Low-cost Pareto-like parameter estimation for sklearn's DBSCAN clustering algorithm.
 
 ### Graphical Models
 
