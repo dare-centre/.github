@@ -73,13 +73,17 @@ Software resources by current and former DARE members.
 
 ### Water
 
-- [DARE Hydrology](https://github.com/dare-centre/dare-hydrology) | (private) Python: Mining impacts on groundwater (via Mixture of Experts).
+Public
 - [Dynamic Rating Curve Fitting](https://github.com/dare-centre/dare-rating-curve) | Python: Fitting streamflow rating curves.
 - [JAX GR4J](https://github.com/dare-centre/hydro-jax) | Python: JAX implementation of the GR4J hydrological model.
-- [Lihir Water](https://github.com/dare-centre/Lihir-Water) | (private) Optimising water consumption for sustainable mining on Lihir Island.
 - [Llara Soil Moisture Probes](https://github.com/dare-centre/llara-soil-moisture) | Python: Modelling Llara farm soil moisture probes data.
-- [NSW Rainfall](https://github.com/dare-centre/NSW-Rainfall) | (private) MATLAB, R: NSW rainfall analysis support (Dilani PhD).
 - [Streamflow Trends: Climate Change](https://github.com/dare-centre/VirtExp) | C++, R, shell: Disentangling climate change trends in Australian streamflow.
+
+Private
+- [Aquifer Layers](https://github.com/dare-centre/Aquifer-Layers) | (private) Python: Aquifer layer identification via DBSCAN and related clustering methods.
+- [DARE Hydrology](https://github.com/dare-centre/dare-hydrology) | (private) Python: Mining impacts on groundwater (via Mixture of Experts).
+- [Lihir Water](https://github.com/dare-centre/Lihir-Water) | (private) Optimising water consumption for sustainable mining on Lihir Island.
+- [NSW Rainfall](https://github.com/dare-centre/NSW-Rainfall) | (private) MATLAB, R: NSW rainfall analysis support (Dilani PhD).
 - [Streamflow Trends: WaterNSW](https://github.com/dare-centre/streamflow-trends) | (private) Python, Stan: Code for the streamflow trends project with WaterNSW.
 - [WIATW](https://github.com/dare-centre/dare-wiatw) | (private) Python: Code repository for the WIATW (Where Is All The Water?) project. This project uses mostly GP methods to quantify uncertainty over space and time in the components of the water balance.
 
