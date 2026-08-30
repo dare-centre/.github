@@ -68,7 +68,7 @@ Public
 Private
 
 - [Easy Leaflet Plot](https://github.com/dare-centre/easyleafplot) | (DARE Members) Python: Plotting data on interactive web maps with a DARE template.
-- [GeoVisual](https://github.com/dare-centre/geo-visual) | (DARE Members) JavaScript, Python: Visualising continuous density functions over a geographical map.
+- [GeoVisual](https://github.com/dare-centre/geo-visual) | JavaScript, Python: Visualising continuous density functions over a geographical map.
 
 ## Projects
 
