@@ -147,7 +147,7 @@ Public
 
 Private
 
-- [DARE Trivia Team Generator](https://github.com/dare-centre/dare-trivia) | (DARE Members) Excel VBA: Automatic trivia teams creation in Excel.
+- [DARE Trivia Team Generator](https://github.com/dare-centre/dare-trivia) | Excel VBA: Automatic trivia teams creation in Excel.
 - [NumPyro Tutorial](https://github.com/dare-centre/fahh-numpyro) | Python: DARE NumPyro tutorial (FAHH) code.
 - [SIMAGRI](https://github.com/dare-centre/et_dss_hist-et_dss_hist_linux_dare) | Fortran, Python: SIMAGRI Agricultural Simulator.
 
