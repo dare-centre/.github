@@ -140,7 +140,7 @@ Private
 Public
 
 - [DARE CSS](https://github.com/dare-centre/dare-templates) | CSS: DARE-themed stylesheets.
-- [DARE Data Challenge: Bayes on the Beach](https://github.com/dare-centre/BOTB-2024-data-challenge) | Resources for DARE's R and Stan-based Bayes on the Beach 2024 Challenge.
+- [DARE Data Challenge: Bayes on the Beach](https://github.com/dare-centre/data-challenge-botb-2024) | Resources for DARE's R and Stan-based Bayes on the Beach 2024 Challenge.
 - [DARE Data Challenge: Internal](https://github.com/dare-centre/DDC-I) | Python, R: Resources for the DARE internal deluxe data challenge.
 - [DARE Data Challenge: Newcrest](https://github.com/dare-centre/newcrest-data-challenge) | Python, R: Resources for the DARE-Newcrest data challenge.
 - [DARE Poster Template](https://github.com/dare-centre/dare-marp-poster-template) | CSS: DARE-themed academic poster template using Marp.
