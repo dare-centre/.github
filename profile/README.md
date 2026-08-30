@@ -126,8 +126,8 @@ Public
 Private
 
 - [Aquifer Layers](https://github.com/dare-centre/aquifer-layers) | (private) Python: Aquifer layer identification via DBSCAN and related clustering methods.
-- [DARE Hydrology](https://github.com/dare-centre/dare-hydrology) | (private) Python: Mining impacts on groundwater (via Mixture of Experts).
-<!-- - [Dynamic Rating Curve Fitting](https://github.com/dare-centre/dare-rating-curve) | (private) Python: Fitting streamflow rating curves. -->
+<!-- - [DARE Hydrology](https://github.com/dare-centre/dare-hydrology) | (private) Python: Mining impacts on groundwater (via Mixture of Experts). -->
+- [Dynamic Rating Curve Fitting](https://github.com/dare-centre/dare-rating-curve) | (private) Python: Fitting streamflow rating curves.
 - [ENSO](https://github.com/tstenborg/enso) | (private) R: El Niño-Southern Oscillation (ENSO) project.
 - [Floodplain Harvesting Compliance](https://github.com/dare-centre/nrar-floodplain-harvesting) | (private) Python: NRAR floodplain harvesting compliance project.
 - [Lihir Water](https://github.com/dare-centre/lihir-water) | (private) Python, R: Optimising water consumption for sustainable mining on Lihir Island.
