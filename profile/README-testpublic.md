@@ -43,7 +43,7 @@ Public
 
 Private
 
-- [Introductory MCMC tutorial](https://github.com/dare-centre/basic_mcmc) | (Rajitha) Python: Intro to MCMC tutorial.
+- [Introductory MCMC tutorial](https://github.com/dare-centre/basic_mcmc) | Python: Intro to MCMC tutorial.
 
 ### Variational Bayes
 
