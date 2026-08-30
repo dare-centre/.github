@@ -122,7 +122,7 @@ Public
 
 Private
 
-- [Aquifer Layers](https://github.com/dare-centre/aquifer-layers) | (Katie, Travis) Python: Aquifer layer identification via DBSCAN and related clustering methods.
+- [Aquifer Layers](https://github.com/dare-centre/aquifer-layers) | Python: Aquifer layer identification via DBSCAN and related clustering methods.
 - [DARE Hydrology](https://github.com/dare-centre/dare-hydrology) | Python: Mining impacts on groundwater (via Mixture of Experts).
 - [Dynamic Rating Curve Fitting](https://github.com/dare-centre/dare-rating-curve) | Python: Fitting streamflow rating curves.
 - [ENSO](https://github.com/tstenborg/enso) | R: El Niño-Southern Oscillation (ENSO) project.
