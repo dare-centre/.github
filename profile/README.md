@@ -132,8 +132,8 @@ Private
 - [Floodplain Harvesting Compliance](https://github.com/dare-centre/nrar-floodplain-harvesting) | (private) Python: NRAR floodplain harvesting compliance project.
 - [Lihir Water](https://github.com/dare-centre/lihir-water) | (private) Python, R: Optimising water consumption for sustainable mining on Lihir Island.
 - [NSW Rainfall](https://github.com/dare-centre/nsw-rainfall) | (private) MATLAB, R: NSW rainfall analysis.
-- [Streamflow Trends: WaterNSW](https://github.com/dare-centre/streamflow-trends) | (private) Python, Stan: Code for the streamflow trends project.
-<!-- - [WIATW](https://github.com/dare-centre/dare-wiatw) | (private) Python: Code repository for the WIATW (Where Is All The Water?) project. This project uses mostly GP methods to quantify uncertainty over space and time in the components of the water balance. -->
+<!-- - [Streamflow Trends: WaterNSW](https://github.com/dare-centre/streamflow-trends) | (private) Python, Stan: Code for the streamflow trends project. -->
+- [WIATW](https://github.com/dare-centre/dare-wiatw) | (private) Python: Code repository for the WIATW (Where Is All The Water?) project. This project uses mostly GP methods to quantify uncertainty over space and time in the components of the water balance.
 
 ### Miscellaneous
 
