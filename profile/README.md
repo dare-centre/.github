@@ -15,7 +15,7 @@ Software resources by DARE members and collaborators.
 - [Projects](#projects)
   - [Biodiversity](#biodiversity)
   - [Health](#health)
-  - [Minerals](#minerals)  
+  - [Minerals](#minerals)
   - [Water](#water)
   - [Miscellaneous](#miscellaneous)
 - [External Resources](#external-resources)
