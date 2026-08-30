@@ -24,7 +24,7 @@ Software resources by DARE members and collaborators.
 
 ### Clustering
 
-- [DBSCAN Parameter Estimation for Sklearn](https://github.com/tstenborg/Paretonian-DBSCAN-Parameters) | Python: Low-cost Pareto-like parameter estimation for sklearn's DBSCAN clustering algorithm.
+- [DBSCAN Parameter Estimation for Sklearn](https://github.com/tstenborg/paretonian-dbscan-parameters) | Python: Low-cost Pareto-like parameter estimation for sklearn's DBSCAN clustering algorithm.
 
 ### Graphical Models
 
@@ -33,15 +33,15 @@ Software resources by DARE members and collaborators.
 ### Machine Learning
 
 - [Bushfires ML Analysis](https://github.com/dare-centre/bushfires) | Google Earth Engine, Python, R: Analysis of bushfire data using multiple methodologies for predicting and understanding bushfire patterns.
-- [Flax Model Hybridisation](https://github.com/dare-centre/flax-hybridization) | Python: A ML model hybridisation example in JAX and Flax.
+- [Flax Model Hybridisation](https://github.com/dare-centre/flax-hybridization) | Python: A ML-model hybridisation example in JAX and Flax.
 
 ### MCMC
 
 Public
 
-- [Adaptive MCMC Parallelisation in Stan](https://github.com/tstenborg/Stan-Adaptive-Parallelisation) | R, Stan: Dynamic determination of optimum chains and cores for MCMC.
+- [Adaptive MCMC Parallelisation in Stan](https://github.com/tstenborg/stan-adaptive-parallelisation) | R, Stan: Dynamic determination of optimum chains and cores for MCMC.
 - [Bayesian Neural Networks with MCMC Tutorial](https://github.com/sydney-machine-learning/Bayesianneuralnetworks-MCMC-tutorial) | Python: Code to accompany a Bayesian neural networks via MCMC tutorial.
-- [Benchmarking Stan under Dynamic Overclocking](https://github.com/tstenborg/Stan-Overclocking-Benchmarker) | R, Stan: Stan benchmarking repeatability under dynamic overclocking.
+- [Benchmarking Stan under Dynamic Overclocking](https://github.com/tstenborg/stan-overclocking-benchmarker) | R, Stan: Stan benchmarking repeatability under dynamic overclocking.
 - [Riemann: A Research Framework for MCMC](https://github.com/rscalzo/riemann) | Python: Advanced MCMC methods for sampling complex, high-dimensional posterior distributions.
 
 Private
@@ -62,16 +62,16 @@ Private
 
 Public
 
-- [ggplot2 LaTeX](https://github.com/tstenborg/LaTeX-Styling-ggplot2) | R: Styling R ggplot2 graphics with LaTeX.
-- [Java Plotly](https://github.com/tstenborg/Bulirsch-Stoer-Instability) | Java: Example Plotly graph generation from Java.
+- [ggplot2 LaTeX](https://github.com/tstenborg/latex-styling-ggplot2) | R: Styling R ggplot2 graphics with LaTeX.
+- [Java Plotly](https://github.com/tstenborg/bulirsch-stoer-instability) | Java: Example Plotly graph generation from Java.
 - [Stata LaTeX](https://github.com/tstenborg/latex-styling-stata) | Stata: Styling Stata graphics with LaTeX.
-- [Ti*k*Z DAGs](https://github.com/tstenborg/Semi-Automated-TikZ-DAGs) | R, Ti*k*Z: Semi-automated Ti*k*Z directed acyclic graphs in R.
-- [Ti*k*Z Raster Graphics](https://github.com/tstenborg/TikZ-Arecibo-Message) | LaTeX, Ti*k*Z: Example raster graphics.
+- [Ti*k*Z DAGs](https://github.com/tstenborg/semi-automated-tikz-dags) | R, Ti*k*Z: Semi-automated Ti*k*Z directed acyclic graphs in R.
+- [Ti*k*Z Raster Graphics](https://github.com/tstenborg/tikz-arecibo-message) | LaTeX, Ti*k*Z: Example raster graphics.
 
 Private
 
 - [Easy Leaflet Plot](https://github.com/dare-centre/easyleafplot) | (private) Python: Plotting data on interactive web maps with a DARE template.
-- [GeoVisual](https://github.com/dare-centre/GeoVisual) | (private) JavaScript, Python: Visualising continuous density functions over a geographical map.
+- [GeoVisual](https://github.com/dare-centre/geo-visual) | (private) JavaScript, Python: Visualising continuous density functions over a geographical map.
 
 ## Projects
 
@@ -107,8 +107,8 @@ Private
 
 Public
 
-- [gPhone Gravity Meter Data Parser](https://github.com/tstenborg/gPhone-R-Parser) | R: A data parser for the gPhone 74 gravity meter.
-- [Soil Spectral Inference with Julia](https://github.com/tstenborg/Julia-Soilspec) | Julia: A Julia version of the R soilspec package (tools for soil spectral inference). Work in progress.
+- [gPhone Gravity Meter Data Parser](https://github.com/tstenborg/gphone-r-parser) | R: A data parser for the gPhone 74 gravity meter.
+- [Soil Spectral Inference with Julia](https://github.com/tstenborg/julia-soilspec) | Julia: A Julia version of the R soilspec package (tools for soil spectral inference). Work in progress.
 
 Private
 
@@ -125,13 +125,13 @@ Public
 
 Private
 
-- [Aquifer Layers](https://github.com/dare-centre/Aquifer-Layers) | (private) Python: Aquifer layer identification via DBSCAN and related clustering methods.
+- [Aquifer Layers](https://github.com/dare-centre/aquifer-layers) | (private) Python: Aquifer layer identification via DBSCAN and related clustering methods.
 - [DARE Hydrology](https://github.com/dare-centre/dare-hydrology) | (private) Python: Mining impacts on groundwater (via Mixture of Experts).
 - [Dynamic Rating Curve Fitting](https://github.com/dare-centre/dare-rating-curve) | (private) Python: Fitting streamflow rating curves.
-- [ENSO](https://github.com/tstenborg/ENSO) | (private) R: El Niño-Southern Oscillation (ENSO) project.
+- [ENSO](https://github.com/tstenborg/enso) | (private) R: El Niño-Southern Oscillation (ENSO) project.
 - [Floodplain Harvesting Compliance](https://github.com/dare-centre/nrar-floodplain-harvesting) | (private) Python: NRAR floodplain harvesting compliance project.
-- [Lihir Water](https://github.com/dare-centre/Lihir-Water) | (private) Python, R: Optimising water consumption for sustainable mining on Lihir Island.
-- [NSW Rainfall](https://github.com/dare-centre/NSW-Rainfall) | (private) MATLAB, R: NSW rainfall analysis.
+- [Lihir Water](https://github.com/dare-centre/lihir-water) | (private) Python, R: Optimising water consumption for sustainable mining on Lihir Island.
+- [NSW Rainfall](https://github.com/dare-centre/nsw-rainfall) | (private) MATLAB, R: NSW rainfall analysis.
 - [Streamflow Trends: WaterNSW](https://github.com/dare-centre/streamflow-trends) | (private) Python, Stan: Code for the streamflow trends project.
 - [WIATW](https://github.com/dare-centre/dare-wiatw) | (private) Python: Code repository for the WIATW (Where Is All The Water?) project. This project uses mostly GP methods to quantify uncertainty over space and time in the components of the water balance.
 
@@ -141,18 +141,18 @@ Public
 
 - [DARE CSS](https://github.com/dare-centre/dare-templates) | CSS: DARE-themed style sheets.
 - [DARE Data Challenge: Bayes on the Beach](https://github.com/dare-centre/data-challenge-botb-2024) | Resources for DARE's R and Stan-based Bayes on the Beach 2024 Challenge.
-- [DARE Data Challenge: Internal](https://github.com/dare-centre/DDC-I) | Python, R: Resources for the DARE internal deluxe data challenge.
+- [DARE Data Challenge: Internal](https://github.com/dare-centre/ddc-i) | Python, R: Resources for the DARE internal deluxe data challenge.
 - [DARE Data Challenge: Newcrest](https://github.com/dare-centre/newcrest-data-challenge) | Python, R: Resources for the DARE-Newcrest data challenge.
 - [DARE Poster Template](https://github.com/dare-centre/dare-marp-poster-template) | CSS: DARE-themed academic poster template using Marp.
-- [Gaussian Combiner](https://github.com/dare-centre/MATLAB-Utilities) | MATLAB: Combining multiple univariate Gaussians into one multivariate Gaussian.
+- [Gaussian Combiner](https://github.com/dare-centre/gaussian-combiner) | MATLAB: Combining multiple univariate Gaussians into one multivariate Gaussian.
 - [Nimbus Guide](https://github.com/dare-centre/nimbus-guide) | A guide to using the legacy Nimbus Research Cloud Service (discontinued in 2025).
 - [UBC-GIF to netCDF](https://github.com/simmonsja/ubcgif-to-netcdf) | Python: A script to convert UBC-GIF data (e.g., [this GA data](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145901)) to netCDF.
 
 Private
 
-- [DARE Trivia Team Generator](https://github.com/dare-centre/DARE-Trivia) | (private) Excel VBA: Automatic trivia teams creation in Excel.
+- [DARE Trivia Team Generator](https://github.com/dare-centre/dare-trivia) | (private) Excel VBA: Automatic trivia teams creation in Excel.
 - [NumPyro Tutorial](https://github.com/dare-centre/fahh-numpyro) | (private) Python: DARE NumPyro tutorial (FAHH) code.
-- [SIMAGRI](https://github.com/dare-centre/ET_DSS_hist-ET_DSS_hist_Linux_DARE) | (private) Fortran, Python: SIMAGRI Agricultural Simulator.
+- [SIMAGRI](https://github.com/dare-centre/et_dss_hist-et_dss_hist_linux_dare) | (private) Fortran, Python: SIMAGRI Agricultural Simulator.
 
 ## External Resources
 
