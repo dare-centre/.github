@@ -46,7 +46,7 @@ Public
 
 Private
 
-- [Introductory MCMC tutorial](https://github.com/dare-centre/basic_mcmc) | Python: Intro to MCMC tutorial.
+- [Introductory MCMC tutorial](https://github.com/dare-centre/basic_mcmc) | (private) Python: Intro to MCMC tutorial.
 
 ### Variational Bayes
 
@@ -56,7 +56,7 @@ Public
 
 Private
 
-- [Ranking VAE](https://github.com/dare-centre/ranking-vae) | Python: Applying variational autoencoders to rank aggregation.
+- [Ranking VAE](https://github.com/dare-centre/ranking-vae) | (private) Python: Applying variational autoencoders to rank aggregation.
 
 ### Visualisation
 
@@ -70,8 +70,8 @@ Public
 
 Private
 
-- [Easy Leaflet Plot](https://github.com/dare-centre/easyleafplot) | Python: Plotting data on interactive web maps with a DARE template.
-- [GeoVisual](https://github.com/dare-centre/geo-visual) | JavaScript, Python: Visualising continuous density functions over a geographical map.
+- [Easy Leaflet Plot](https://github.com/dare-centre/easyleafplot) | (private) Python: Plotting data on interactive web maps with a DARE template.
+- [GeoVisual](https://github.com/dare-centre/geo-visual) | (private) JavaScript, Python: Visualising continuous density functions over a geographical map.
 
 ## Projects
 
@@ -84,9 +84,9 @@ Public
 
 Private
 
-- [Ecological Population Abundances](https://github.com/dare-centre/missing-value-imputation) | R: Missing value imputation for ecological population abundances.
-- [Fish Biomass I](https://github.com/dare-centre/fisheries) | R: Fish biomass estimation models.
-- [Fish Biomass II](https://github.com/dare-centre/cmsy) | R: Fish biomass estimation using the data-limited CMSY method.
+- [Ecological Population Abundances](https://github.com/dare-centre/missing-value-imputation) | (private) R: Missing value imputation for ecological population abundances.
+- [Fish Biomass I](https://github.com/dare-centre/fisheries) | (private) R: Fish biomass estimation models.
+- [Fish Biomass II](https://github.com/dare-centre/cmsy) | (private) R: Fish biomass estimation using the data-limited CMSY method.
 - [Global Fishing Index 2025](https://github.com/MinderooFoundation/FLO-Global-Fishing-Index-2025) | (external, private) R: Global fishing sustainability, Minderoo Foundation repository.
 
 ### Health
@@ -100,8 +100,8 @@ Public
 
 Private
 
-- [COVID-19 Models Evaluation: Supplemental](https://github.com/dare-centre/covid-19) | JavaScript, Python, R: Evaluating COVID-19 daily deaths and ICU bed utilisation predictions.
-- [COVID-19: Mixture Model](https://github.com/dare-centre/covid-mixture-model) | Python: Mixture model based on Kalman filtering.
+- [COVID-19 Models Evaluation: Supplemental](https://github.com/dare-centre/covid-19) | (private) JavaScript, Python, R: Evaluating COVID-19 daily deaths and ICU bed utilisation predictions.
+- [COVID-19: Mixture Model](https://github.com/dare-centre/covid-mixture-model) | (private) Python: Mixture model based on Kalman filtering.
 
 ### Minerals
 
@@ -112,7 +112,7 @@ Public
 
 Private
 
-- [Soil Biome and Geochemical Signatures](https://github.com/dare-centre/ga-soil-geochemical-biomes) | Python: Exploring Geoscience Australia soils data from southwestern Victoria.
+- [Soil Biome and Geochemical Signatures](https://github.com/dare-centre/ga-soil-geochemical-biomes) | (private) Python: Exploring Geoscience Australia soils data from southwestern Victoria.
 
 ### Water
 
@@ -125,15 +125,15 @@ Public
 
 Private
 
-- [Aquifer Layers](https://github.com/dare-centre/aquifer-layers) | Python: Aquifer layer identification via DBSCAN and related clustering methods.
-- [DARE Hydrology](https://github.com/dare-centre/dare-hydrology) | Python: Mining impacts on groundwater (via Mixture of Experts).
-- [Dynamic Rating Curve Fitting](https://github.com/dare-centre/dare-rating-curve) | Python: Fitting streamflow rating curves.
-- [ENSO](https://github.com/tstenborg/enso) | R: El Niño-Southern Oscillation (ENSO) project.
-- [Floodplain Harvesting Compliance](https://github.com/dare-centre/nrar-floodplain-harvesting) | Python: NRAR floodplain harvesting compliance project.
-- [Lihir Water](https://github.com/dare-centre/lihir-water) | Python, R: Optimising water consumption for sustainable mining on Lihir Island.
-- [NSW Rainfall](https://github.com/dare-centre/nsw-rainfall) | MATLAB, R: NSW rainfall analysis.
-- [Streamflow Trends: WaterNSW](https://github.com/dare-centre/streamflow-trends) | Python, Stan: Code for the streamflow trends project.
-- [WIATW](https://github.com/dare-centre/dare-wiatw) | Python: Code repository for the WIATW (Where Is All The Water?) project. This project uses mostly GP methods to quantify uncertainty over space and time in the components of the water balance.
+- [Aquifer Layers](https://github.com/dare-centre/aquifer-layers) | (private) Python: Aquifer layer identification via DBSCAN and related clustering methods.
+- [DARE Hydrology](https://github.com/dare-centre/dare-hydrology) | (private) Python: Mining impacts on groundwater (via Mixture of Experts).
+- [Dynamic Rating Curve Fitting](https://github.com/dare-centre/dare-rating-curve) | (private) Python: Fitting streamflow rating curves.
+- [ENSO](https://github.com/tstenborg/enso) | (private) R: El Niño-Southern Oscillation (ENSO) project.
+- [Floodplain Harvesting Compliance](https://github.com/dare-centre/nrar-floodplain-harvesting) | (private) Python: NRAR floodplain harvesting compliance project.
+- [Lihir Water](https://github.com/dare-centre/lihir-water) | (private) Python, R: Optimising water consumption for sustainable mining on Lihir Island.
+- [NSW Rainfall](https://github.com/dare-centre/nsw-rainfall) | (private) MATLAB, R: NSW rainfall analysis.
+- [Streamflow Trends: WaterNSW](https://github.com/dare-centre/streamflow-trends) | (private) Python, Stan: Code for the streamflow trends project.
+- [WIATW](https://github.com/dare-centre/dare-wiatw) | (private) Python: Code repository for the WIATW (Where Is All The Water?) project. This project uses mostly GP methods to quantify uncertainty over space and time in the components of the water balance.
 
 ### Miscellaneous
 
@@ -150,9 +150,9 @@ Public
 
 Private
 
-- [DARE Trivia Team Generator](https://github.com/dare-centre/dare-trivia) | Excel VBA: Automatic trivia teams creation in Excel.
-- [NumPyro Tutorial](https://github.com/dare-centre/fahh-numpyro) | Python: DARE NumPyro tutorial (FAHH) code.
-- [SIMAGRI](https://github.com/dare-centre/et_dss_hist-et_dss_hist_linux_dare) | Fortran, Python: SIMAGRI Agricultural Simulator.
+- [DARE Trivia Team Generator](https://github.com/dare-centre/dare-trivia) | (private) Excel VBA: Automatic trivia teams creation in Excel.
+- [NumPyro Tutorial](https://github.com/dare-centre/fahh-numpyro) | (private) Python: DARE NumPyro tutorial (FAHH) code.
+<!-- - [SIMAGRI](https://github.com/dare-centre/et_dss_hist-et_dss_hist_linux_dare) | (private) Fortran, Python: SIMAGRI Agricultural Simulator. -->
 
 ## External Resources
 
