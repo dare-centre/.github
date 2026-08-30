@@ -52,7 +52,7 @@ Private
 
 Public
 
-- [VBLab: A MATLAB Package for Variational Inference](https://vbayeslab.github.io/VBLabDocs/) | MATLAB: A probabilistic programming package for automatic variational Bayesian inference on both common, pre-defined statistical models and user-defined models.
+- [VBLab: A MATLAB Package for Variational Inference](https://vbayeslab.github.io/VBLabDocs/) | MATLAB: A probabilistic programming package for automatic variational Bayesian inference on both common, predefined statistical models and user-defined models.
 
 Private
 
@@ -87,7 +87,7 @@ Private
 - [Ecological Population Abundances](https://github.com/dare-centre/missing-value-imputation) | (private) R: Missing value imputation for ecological population abundances.
 - [Fish Biomass I](https://github.com/dare-centre/fisheries) | (private) R: Fish biomass estimation models.
 - [Fish Biomass II](https://github.com/dare-centre/cmsy) | (private) R: Fish biomass estimation using the data-limited CMSY method.
-- [Global Fishing Index 2025](https://github.com/MinderooFoundation/FLO-Global-Fishing-Index-2025) | (external, private) R: Global fishing sustainability, Minderoo Foundation repo.
+- [Global Fishing Index 2025](https://github.com/MinderooFoundation/FLO-Global-Fishing-Index-2025) | (external, private) R: Global fishing sustainability, Minderoo Foundation repository.
 
 ### Health
 
@@ -139,7 +139,7 @@ Private
 
 Public
 
-- [DARE CSS](https://github.com/dare-centre/dare-templates) | CSS: DARE-themed stylesheets.
+- [DARE CSS](https://github.com/dare-centre/dare-templates) | CSS: DARE-themed style sheets.
 - [DARE Data Challenge: Bayes on the Beach](https://github.com/dare-centre/data-challenge-botb-2024) | Resources for DARE's R and Stan-based Bayes on the Beach 2024 Challenge.
 - [DARE Data Challenge: Internal](https://github.com/dare-centre/DDC-I) | Python, R: Resources for the DARE internal deluxe data challenge.
 - [DARE Data Challenge: Newcrest](https://github.com/dare-centre/newcrest-data-challenge) | Python, R: Resources for the DARE-Newcrest data challenge.
