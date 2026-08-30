@@ -53,7 +53,7 @@ Public
 
 Private
 
-- [Ranking VAE](https://github.com/dare-centre/ranking-vae) | (DARE Members) Python: Applying variational autoencoders to rank aggregation.
+- [Ranking VAE](https://github.com/dare-centre/ranking-vae) | Python: Applying variational autoencoders to rank aggregation.
 
 ### Visualisation
 
