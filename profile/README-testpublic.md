@@ -109,7 +109,7 @@ Public
 
 Private
 
-- [Soil Biome and Geochemical Signatures](https://github.com/dare-centre/ga-soil-geochemical-biomes) | (Joshua) Python: Exploring Geoscience Australia soils data from southwestern Victoria.
+- [Soil Biome and Geochemical Signatures](https://github.com/dare-centre/ga-soil-geochemical-biomes) | Python: Exploring Geoscience Australia soils data from southwestern Victoria.
 
 ### Water
 
