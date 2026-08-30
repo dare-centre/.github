@@ -33,7 +33,7 @@ Software resources by DARE members and collaborators.
 ### Machine Learning
 
 - [Bushfires ML Analysis](https://github.com/dare-centre/bushfires) | Google Earth Engine, Python, R: Analysis of bushfire data using multiple methodologies for predicting and understanding bushfire patterns.
-- [Flax Model Hybridisation](https://github.com/dare-centre/flax-hybridization) | Python: A ML-model hybridisation example in JAX and Flax.
+- [Flax Model Hybridisation](https://github.com/dare-centre/flax-hybridization) | Python: A ML model hybridisation example in JAX and Flax.
 
 ### MCMC
 
