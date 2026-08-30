@@ -2,10 +2,6 @@
 
 Software resources by DARE members and collaborators.
 
-> [!NOTE]
-> DARE members, and formal collaborators, should log in to GitHub to view
-> private content.
-
 - [Methods](#methods)
   - [Clustering](#clustering)
   - [Graphical Models](#graphical-models)
@@ -38,30 +34,30 @@ Software resources by DARE members and collaborators.
 
 ### MCMC
 
-#### Public
+Public
 
 - [Adaptive MCMC Parallelisation in Stan](https://github.com/tstenborg/stan-adaptive-parallelisation) | R, Stan: Dynamic determination of optimum chains and cores for MCMC.
 - [Bayesian Neural Networks with MCMC Tutorial](https://github.com/sydney-machine-learning/Bayesianneuralnetworks-MCMC-tutorial) | Python: Code to accompany a Bayesian neural networks via MCMC tutorial.
 - [Benchmarking Stan under Dynamic Overclocking](https://github.com/tstenborg/stan-overclocking-benchmarker) | R, Stan: Stan benchmarking repeatability under dynamic overclocking.
 - [Riemann: A Research Framework for MCMC](https://github.com/rscalzo/riemann) | Python: Advanced MCMC methods for sampling complex, high-dimensional posterior distributions.
 
-#### Private
+Private
 
 - [Introductory MCMC tutorial](https://github.com/dare-centre/basic_mcmc) | (private) Python: Intro to MCMC tutorial.
 
 ### Variational Bayes
 
-#### Public
+Public
 
 - [VBLab: A MATLAB Package for Variational Inference](https://vbayeslab.github.io/VBLabDocs/) | MATLAB: A probabilistic programming package for automatic variational Bayesian inference on both common, predefined statistical models and user-defined models.
 
-#### Private
+Private
 
 - [Ranking VAE](https://github.com/dare-centre/ranking-vae) | (private) Python: Applying variational autoencoders to rank aggregation.
 
 ### Visualisation
 
-#### Public
+Public
 
 - [ggplot2 LaTeX](https://github.com/tstenborg/latex-styling-ggplot2) | R: Styling R ggplot2 graphics with LaTeX.
 - [Java Plotly](https://github.com/tstenborg/bulirsch-stoer-instability) | Java: Example Plotly graph generation from Java.
@@ -69,7 +65,7 @@ Software resources by DARE members and collaborators.
 - [Ti*k*Z DAGs](https://github.com/tstenborg/semi-automated-tikz-dags) | R, Ti*k*Z: Semi-automated Ti*k*Z directed acyclic graphs in R.
 - [Ti*k*Z Raster Graphics](https://github.com/tstenborg/tikz-arecibo-message) | LaTeX, Ti*k*Z: Example raster graphics.
 
-#### Private
+Private
 
 - [Easy Leaflet Plot](https://github.com/dare-centre/easyleafplot) | (private) Python: Plotting data on interactive web maps with a DARE template.
 - [GeoVisual](https://github.com/dare-centre/geo-visual) | (private) JavaScript, Python: Visualising continuous density functions over a geographical map.
@@ -78,12 +74,12 @@ Software resources by DARE members and collaborators.
 
 ### Biodiversity
 
-#### Public
+Public
 
 - [Fish Stock Simulation](https://github.com/dare-centre/stocksims) | R: Simulating population trajectories for model testing.
 - [Fisheries Comparison](https://github.com/dare-centre/fishery-comparison) | R: Repository for data-limited catch-only stock assessment methods.
 
-#### Private
+Private
 
 - [Ecological Population Abundances](https://github.com/dare-centre/missing-value-imputation) | (private) R: Missing value imputation for ecological population abundances.
 - [Fish Biomass I](https://github.com/dare-centre/fisheries) | (private) R: Fish biomass estimation models.
@@ -92,39 +88,39 @@ Software resources by DARE members and collaborators.
 
 ### Health
 
-#### Public
+Public
 
 - [COVID-19 Models Evaluation: IHME](https://github.com/dare-centre/covid-19-learning-as-we-go) | Python: Evaluating COVID-19 predictive models by the Institute for Health Metrics and Evaluation.
 - [COVID-19 Models Evaluation: Imperial](https://github.com/dare-centre/imperial-covid19-model) | R, Stan: Comparison of models by Imperial College's COVID-19 Response Team.
 - [COVID-19 Models Evaluation: New York](https://github.com/dare-centre/covid-19-ny-deaths-and-icu) | R: Evaluating COVID-19 daily deaths and ICU bed utilisation predictions in New York.
 - [Memory Modelling](https://github.com/dare-centre/cogflex) | R: Modelling working memory dynamics in individuals engaging in a stimulus-tracking n-back experiment.
 
-#### Private
+Private
 
 - [COVID-19 Models Evaluation: Supplemental](https://github.com/dare-centre/covid-19) | (private) JavaScript, Python, R: Evaluating COVID-19 daily deaths and ICU bed utilisation predictions.
 - [COVID-19: Mixture Model](https://github.com/dare-centre/covid-mixture-model) | (private) Python: Mixture model based on Kalman filtering.
 
 ### Minerals
 
-#### Public
+Public
 
 - [gPhone Gravity Meter Data Parser](https://github.com/tstenborg/gphone-r-parser) | R: A data parser for the gPhone 74 gravity meter.
 - [Soil Spectral Inference with Julia](https://github.com/tstenborg/julia-soilspec) | Julia: A Julia version of the R soilspec package (tools for soil spectral inference). Work in progress.
 
-#### Private
+Private
 
 - [Soil Biome and Geochemical Signatures](https://github.com/dare-centre/ga-soil-geochemical-biomes) | (private) Python: Exploring Geoscience Australia soils data from southwestern Victoria.
 
 ### Water
 
-#### Public
+Public
 
 - [CMIP Tools](https://github.com/dare-centre/cmip-tools) | Python: CMIP data tools for the Artemis cluster (retired in 2025).
 - [JAX GR4J](https://github.com/dare-centre/hydro-jax) | Python: JAX implementation of the GR4J hydrological model.
 - [Llara Soil Moisture Probes](https://github.com/dare-centre/llara-soil-moisture) | Python: Modelling Llara farm soil moisture probes data.
 - [Streamflow Trends: Climate Change](https://github.com/dare-centre/VirtExp) | C++, R, shell: Disentangling climate change trends in Australian streamflow.
 
-#### Private
+Private
 
 - [Aquifer Layers](https://github.com/dare-centre/aquifer-layers) | (private) Python: Aquifer layer identification via DBSCAN and related clustering methods.
 - [DARE Hydrology](https://github.com/dare-centre/dare-hydrology) | (private) Python: Mining impacts on groundwater (via Mixture of Experts).
@@ -138,7 +134,7 @@ Software resources by DARE members and collaborators.
 
 ### Miscellaneous
 
-#### Public
+Public
 
 - [DARE CSS](https://github.com/dare-centre/dare-templates) | CSS: DARE-themed style sheets.
 - [DARE Data Challenge: Bayes on the Beach](https://github.com/dare-centre/data-challenge-botb-2024) | R, Stan: Resources for DARE's Bayes on the Beach 2024 Challenge.
@@ -149,7 +145,7 @@ Software resources by DARE members and collaborators.
 - [Nimbus Guide](https://github.com/dare-centre/nimbus-guide) | A guide to using the legacy Nimbus Research Cloud Service (discontinued in 2025).
 - [UBC-GIF to netCDF](https://github.com/simmonsja/ubcgif-to-netcdf) | Python: A script to convert UBC-GIF data (e.g., [this GA data](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/145901)) to netCDF.
 
-#### Private
+Private
 
 - [DARE Trivia Team Generator](https://github.com/dare-centre/dare-trivia) | (private) Excel VBA: Automatic trivia teams creation in Excel.
 - [NumPyro Tutorial](https://github.com/dare-centre/fahh-numpyro) | (private) Python: DARE NumPyro tutorial (FAHH) code.
