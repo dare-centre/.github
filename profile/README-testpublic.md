@@ -128,7 +128,7 @@ Private
 - [ENSO](https://github.com/tstenborg/enso) | (Nandini, Travis) R: El Niño-Southern Oscillation (ENSO) project.
 - [Floodplain Harvesting Compliance](https://github.com/dare-centre/nrar-floodplain-harvesting) | (Joshua, Rajitha, Outside Collaborators) Python: NRAR floodplain harvesting compliance project.
 - [Lihir Water](https://github.com/dare-centre/lihir-water) | (Monica, Travis, Willem w/ Newmont) Python, R: Optimising water consumption for sustainable mining on Lihir Island.
-- [NSW Rainfall](https://github.com/dare-centre/nsw-rainfall) | (Dilani, Travis) MATLAB, R: NSW rainfall analysis.
+- [NSW Rainfall](https://github.com/dare-centre/nsw-rainfall) | MATLAB, R: NSW rainfall analysis.
 - [Streamflow Trends: WaterNSW](https://github.com/dare-centre/streamflow-trends) | Python, Stan: Code for the streamflow trends project.
 - [WIATW](https://github.com/dare-centre/dare-wiatw) | Python: Code repository for the WIATW (Where Is All The Water?) project. This project uses mostly GP methods to quantify uncertainty over space and time in the components of the water balance.
 
