@@ -3,8 +3,7 @@
 Software resources by DARE members and collaborators.
 
 > [!NOTE]
-> DARE members, and formal collaborators, should log in to GitHub to view
-> private content.
+> DARE members, and formal collaborators, should log in to GitHub to view private content.
 
 - [Methods](#methods)
   - [Clustering](#clustering)
@@ -66,8 +65,8 @@ Public
 - [ggplot2 LaTeX](https://github.com/tstenborg/latex-styling-ggplot2) | R: Styling R ggplot2 graphics with LaTeX.
 - [Java Plotly](https://github.com/tstenborg/bulirsch-stoer-instability) | Java: Example Plotly graph generation from Java.
 - [Stata LaTeX](https://github.com/tstenborg/latex-styling-stata) | Stata: Styling Stata graphics with LaTeX.
-- [Ti*k*Z DAGs](https://github.com/tstenborg/semi-automated-tikz-dags) | R, Ti*k*Z: Semi-automated Ti*k*Z directed acyclic graphs in R.
-- [Ti*k*Z Raster Graphics](https://github.com/tstenborg/tikz-arecibo-message) | LaTeX, Ti*k*Z: Example raster graphics.
+- [Ti\*k\*Z DAGs](https://github.com/tstenborg/semi-automated-tikz-dags) | R, Ti\*k\*Z: Semi-automated Ti\*k\*Z directed acyclic graphs in R.
+- [Ti\*k\*Z Raster Graphics](https://github.com/tstenborg/tikz-arecibo-message) | LaTeX, Ti\*k\*Z: Example raster graphics.
 
 Private
 
@@ -141,7 +140,7 @@ Private
 Public
 
 - [DARE CSS](https://github.com/dare-centre/dare-templates) | CSS: DARE-themed style sheets.
-- [DARE Data Challenge: Bayes on the Beach](https://github.com/dare-centre/data-challenge-botb-2024) | Resources for DARE's R and Stan-based Bayes on the Beach 2024 Challenge.
+- [DARE Data Challenge: Bayes on the Beach](https://github.com/dare-centre/data-challenge-botb-2024) | R, Stan: Resources for DARE's Bayes on the Beach 2024 Challenge.
 - [DARE Data Challenge: Internal](https://github.com/dare-centre/ddc-i) | Python, R: Resources for the DARE internal deluxe data challenge.
 - [DARE Data Challenge: Newcrest](https://github.com/dare-centre/newcrest-data-challenge) | Python, R: Resources for the DARE-Newcrest data challenge.
 - [DARE Poster Template](https://github.com/dare-centre/dare-marp-poster-template) | CSS: DARE-themed academic poster template using Marp.
