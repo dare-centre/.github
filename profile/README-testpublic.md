@@ -83,7 +83,7 @@ Private
 
 - [Ecological Population Abundances](https://github.com/dare-centre/missing-value-imputation) | (Travis, Vihanga) R: Missing value imputation for ecological population abundances.
 - [Fish Biomass I](https://github.com/dare-centre/fisheries) | (Roman, Vincent) R: Fish biomass estimation models.
-- [Fish Biomass II](https://github.com/dare-centre/cmsy) | (Roman) R: Fish biomass estimation using the data-limited CMSY method.
+- [Fish Biomass II](https://github.com/dare-centre/cmsy) | R: Fish biomass estimation using the data-limited CMSY method.
 - [Global Fishing Index 2025](https://github.com/MinderooFoundation/FLO-Global-Fishing-Index-2025) | R: Global fishing sustainability, Minderoo Foundation repository.
 
 ### Health
