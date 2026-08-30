@@ -3,7 +3,8 @@
 Software resources by DARE members and collaborators.
 
 > [!NOTE]
-> DARE members, and formal collaborators, should log in to GitHub to view private content.
+> DARE members, and formal collaborators, should log in to GitHub to view
+> private content.
 
 - [Methods](#methods)
   - [Clustering](#clustering)
