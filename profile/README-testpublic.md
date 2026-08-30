@@ -98,7 +98,7 @@ Public
 Private
 
 - [COVID-19 Models Evaluation: Supplemental](https://github.com/dare-centre/covid-19) | (Andy, Roman, Vincent) JavaScript, Python, R: Evaluating COVID-19 daily deaths and ICU bed utilisation predictions.
-- [COVID-19: Mixture Model](https://github.com/dare-centre/covid-mixture-model) | (Roman) Python: Mixture model based on Kalman filtering.
+- [COVID-19: Mixture Model](https://github.com/dare-centre/covid-mixture-model) | Python: Mixture model based on Kalman filtering.
 
 ### Minerals
 
