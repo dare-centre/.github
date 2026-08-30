@@ -1,9 +1,9 @@
 # DARE Repositories
 
+Software resources by DARE members and collaborators.
+
 > [!NOTE]
 > DARE members, and formal collaborators, should log in to GitHub to view private content.
-
-Software resources by DARE members and collaborators.
 
 - [Methods](#methods)
   - [Clustering](#clustering)
