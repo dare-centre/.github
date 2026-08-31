@@ -12,7 +12,7 @@ Selected digital resources by DARE members and collaborators are collated here.
 > [!NOTE]
 > DARE members, and formal collaborators, should log in to GitHub to view private content.
 
-<img src="./assets/separator.webp" alt="The DARE logo, a ring of three segments with symbols; blue with a water drop, green with leaf and orange with zigzag lines." width="1041">
+<img src="../assets/separator.webp" alt="The DARE logo, a ring of three segments with symbols; blue with a water drop, green with leaf and orange with zigzag lines." width="1041">
 
 - [Methods](#methods)
   - [Clustering](#clustering)
