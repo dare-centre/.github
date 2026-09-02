@@ -150,7 +150,7 @@ Public
 
 - [DARE CSS](https://github.com/dare-centre/dare-templates) | CSS: DARE-themed style sheets.
 - [DARE Data Challenge: Bayes on the Beach](https://github.com/dare-centre/data-challenge-botb-2024) | R, Stan: Resources for DARE's Bayes on the Beach 2024 Challenge.
-- [DARE Data Challenge: Internal](https://github.com/dare-centre/ddc-i) | Python, R: Resources for the DARE internal deluxe data challenge.
+- [DARE Data Challenge: Internal](https://github.com/dare-centre/data-challenge-internal) | Python, R: Resources for the DARE internal deluxe data challenge.
 - [DARE Data Challenge: Newcrest](https://github.com/dare-centre/newcrest-data-challenge) | Python, R: Resources for the DARE-Newcrest data challenge.
 - [DARE Poster Template](https://github.com/dare-centre/dare-marp-poster-template) | CSS: DARE-themed academic poster template using Marp.
 - [Gaussian Combiner](https://github.com/dare-centre/gaussian-combiner) | MATLAB: Combining multiple univariate Gaussians into one multivariate Gaussian.
